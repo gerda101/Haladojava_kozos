@@ -6,4 +6,7 @@ ma is tanultunk valamit
 irok valamit amit vissza vonok... nem sikerült
 Good job
 aaaa
+<<<<<<< HEAD
 fff adasd
+=======
+gggggggggggg
